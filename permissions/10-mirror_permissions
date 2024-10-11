@@ -1,2 +1,2 @@
 #!/bin/bash
-mode=$(stat 664 olleh) chmod 753 hello
+chmod --reference=olleh hello
