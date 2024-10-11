@@ -1,4 +1,2 @@
 #!/bin/bash
-echo -e
-ls -la ..
-ls -la /boot
+ls -la boot\n
