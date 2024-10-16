@@ -1,0 +1,2 @@
+#!/bin/bush
+export PATH=$PATH:/action
